@@ -1,6 +1,6 @@
 # Stimulated Microcontroller Dataset for New IoT Device Identification Schemes through On-Chip Sensor Monitoring
 
-In this repository, the script used to train a 1D CNN-based model for device identification from sequences containing consecutive pairs of temperature and voltage sensor readings during various workloads is provided. They must be correctly labeled, following the workflow and using the tools described in [link to Zenodo/Tools].
+In this repository, the script used to train a 1D CNN-based model for device identification from sequences containing consecutive pairs of temperature and voltage sensor readings during various workloads is provided. They must be correctly labeled, following the workflow and using the tools described in [![DOI](https://zenodo.org/badge/695282548.svg)](https://zenodo.org/doi/10.5281/zenodo.8376639).
 
 The pre-trained model used in [link to the paper] is provided.
 
